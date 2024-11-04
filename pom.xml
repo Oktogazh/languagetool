@@ -770,6 +770,11 @@
             </dependency>
             <dependency>
                 <groupId>org.languagetool</groupId>
+                <artifactId>language-cy</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.languagetool</groupId>
                 <artifactId>language-ca</artifactId>
                 <version>${revision}</version>
             </dependency>

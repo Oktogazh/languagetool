@@ -9,9 +9,9 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>language-en</artifactId>
+    <artifactId>language-cy</artifactId>
     <packaging>jar</packaging>
-    <name>English module for LanguageTool</name>
+    <name>Welsh module for LanguageTool</name>
     <url>https://www.languagetool.org</url>
 
     <licenses>
