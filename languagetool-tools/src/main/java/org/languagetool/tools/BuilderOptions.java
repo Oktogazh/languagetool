@@ -32,11 +32,11 @@ class BuilderOptions {
   public static final String OUTPUT_OPTION = "o";
   public static final String INPUT_OPTION = "i";
   public static final String FREQ_OPTION = "freq";
-  public static final String FREQ_HELP = "optional .xml file with a frequency wordlist, " 
+  public static final String FREQ_HELP = "optional .xml file with a frequency wordlist, "
       + "see https://dev.languagetool.org/developing-a-tagger-dictionary";
-  public static final String INFO_HELP = "*.info properties file, " 
+  public static final String INFO_HELP = "*.info properties file, "
       + "see https://dev.languagetool.org/developing-a-tagger-dictionary";
-  public static final String TAB_INPUT_HELP = "tab-separated plain-text dictionary file " 
+  public static final String TAB_INPUT_HELP = "tab-separated plain-text dictionary file "
       + "with format: wordform<tab>lemma<tab>postag";
 
   protected final Options options = new Options();
@@ -46,13 +46,13 @@ class BuilderOptions {
     option.setRequired(true);
     options.addOption(option);
   }
-  
+
   public void addOption(String opt, boolean hasArg, String description, boolean isRequired) {
     Option option = new Option(opt, hasArg, description);
     option.setRequired(isRequired);
     options.addOption(option);
   }
-  
+
   @NotNull
   public CommandLine parseArguments(String[] args, Class<? extends DictionaryBuilder> clazz) throws ParseException {
     try {
