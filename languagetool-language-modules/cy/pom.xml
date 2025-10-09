@@ -1,16 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
     <parent>
         <groupId>org.languagetool</groupId>
         <artifactId>languagetool-parent</artifactId>
         <version>${revision}</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
+
     <artifactId>language-cy</artifactId>
     <packaging>jar</packaging>
     <name>Welsh module for LanguageTool</name>
     <url>https://www.languagetool.org</url>
+
     <licenses>
         <license>
             <name>GNU Lesser General Public License</name>
@@ -19,7 +22,14 @@
             <comments>The license refers to the source code, resources may be under different licenses</comments>
         </license>
     </licenses>
+
     <developers>
+        <developer>
+            <name>Daniel Naber</name>
+            <roles>
+                <role>Maintainer</role>
+            </roles>
+        </developer>
         <developer>
             <name>Alan Kersaudy</name>
             <roles>
@@ -27,16 +37,35 @@
             </roles>
         </developer>
     </developers>
+
     <dependencies>
+        <dependency>
+            <groupId>edu.washington.cs.knowitall</groupId>
+            <artifactId>opennlp-chunk-models</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.washington.cs.knowitall</groupId>
+            <artifactId>opennlp-postag-models</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>edu.washington.cs.knowitall</groupId>
+            <artifactId>opennlp-tokenize-models</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.opennlp</groupId>
+            <artifactId>opennlp-tools</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
+            <artifactId>english-pos-dict</artifactId>
+        </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
-            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -44,25 +73,31 @@
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
             <type>test-jar</type>
-            <version>${project.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
+
     <build>
+        <!-- <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <excludes>
+                    <exclude>org/languagetool/resource/en/partlycountable.txt</exclude>
+                    <exclude>org/languagetool/resource/en/uncountable.txt</exclude>
+                    <exclude>org/languagetool/resource/en/filter*.txt</exclude>
+                    <exclude>org/languagetool/resource/en/*.awk</exclude>
+                    <exclude>org/languagetool/resource/en/numbers.txt</exclude>
+                </excludes>
+            </resource>
+        </resources> -->
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
-                <configuration>
-                    <source>11</source>
-                    <target>11</target>
-                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.22.2</version>
             </plugin>
         </plugins>
     </build>
