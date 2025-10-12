@@ -6264,6 +6264,29 @@
 <afterbreak>\p{Lu}\p{Ll}</afterbreak>
 </rule>
 </languagerule>
+<languagerule languagerulename="Welsh">
+<rule break="no">
+<beforebreak>\b[dD]\.l\.e\.?</beforebreak>
+<afterbreak></afterbreak>
+</rule>
+<rule break="yes">
+<beforebreak>[\.!?…]['"”»\p{Pe}\u00BB\u201D]?\s*</beforebreak>
+<afterbreak>\p{Lu}[^\p{Lu}]</afterbreak>
+</rule>
+<!-- Break rules -->
+<rule break="yes">
+<beforebreak>[\.!?…][\u0002|'|"|«|\)|\]|\}¹²³]?\s+</beforebreak>
+<afterbreak></afterbreak>
+</rule>
+<rule break="yes">
+<beforebreak>[\.!?…]['"\p{Pe}\u00BB\u201D]?</beforebreak>
+<afterbreak>\p{Lu}[^\p{Lu}]</afterbreak>
+</rule>
+<rule break="yes">
+<beforebreak>\s\p{L}[\.!?…]\s</beforebreak>
+<afterbreak>\p{Lu}\p{Ll}</afterbreak>
+</rule>
+</languagerule>
 <languagerule languagerulename="Portuguese">
 <rule break="no">
 <beforebreak>\b(https?|ftp|file|chrome|chromium|android|(chrome|moz)\-extension):///?[A-Za-z0-9\-]+\.</beforebreak>
@@ -7016,6 +7039,7 @@
 <languagemap languagepattern="(JA|ja).*" languagerulename="Ideographic"></languagemap>
 <languagemap languagepattern="(ZH|zh).*" languagerulename="Ideographic"></languagemap>
 <languagemap languagepattern="(BR|br).*" languagerulename="Breton"></languagemap>
+<languagemap languagepattern="(CY|cy).*" languagerulename="Welsh"></languagemap>
 <languagemap languagepattern="(PT|pt).*" languagerulename="Portuguese"></languagemap>
 <languagemap languagepattern="(IT|it).*" languagerulename="Italian"></languagemap>
 <languagemap languagepattern="(TA|ta).*" languagerulename="Tamil"></languagemap>

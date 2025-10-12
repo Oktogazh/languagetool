@@ -40,26 +40,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>edu.washington.cs.knowitall</groupId>
-            <artifactId>opennlp-chunk-models</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>edu.washington.cs.knowitall</groupId>
-            <artifactId>opennlp-postag-models</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>edu.washington.cs.knowitall</groupId>
-            <artifactId>opennlp-tokenize-models</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.opennlp</groupId>
-            <artifactId>opennlp-tools</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.languagetool</groupId>
-            <artifactId>english-pos-dict</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
         </dependency>

@@ -23,7 +23,6 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.languagetool.*;
 import org.languagetool.rules.*;
-import org.languagetool.rules.spelling.SpellingCheckRule;
 import org.languagetool.tagging.disambiguation.Disambiguator;
 import org.languagetool.tagging.disambiguation.rules.XmlRuleDisambiguator;
 import org.languagetool.tokenizers.*;
@@ -42,13 +41,13 @@ public class Welsh extends Language {
   }
 
   @Override
-  public String getName() {
-    return "Welsh";
+  public String getShortCode() {
+    return "cy";
   }
 
   @Override
-  public String getShortCode() {
-    return "cy";
+  public String getName() {
+    return "Welsh";
   }
 
   @Override
@@ -71,9 +70,9 @@ public class Welsh extends Language {
     return Arrays.asList(
             new CommaWhitespaceRule(messages),
             new DoublePunctuationRule(messages),
-            new UppercaseSentenceStartRule(messages, this),
             new MultipleWhitespaceRule(messages, this),
-            new SentenceWhitespaceRule(messages)
+            new SentenceWhitespaceRule(messages),
+            new UppercaseSentenceStartRule(messages, this)
     );
   }
 
