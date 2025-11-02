@@ -1,5 +1,66 @@
 #Catalan multiwords file used for chunking
 #separatorRegExp=[\t;]
+Joan Bosco;NPMSSP0
+Alí Paixà Rizvanbegović;NPMSSP0
+República Srpska;NPFSG00
+Nosaltres Sols;NPCNO00
+Josep Dencàs;NPMSSP0
+Galina Ustvólskaia;NPFSSP0
+Gueorgui Rimski-Kórsakov;NPMSSP0
+Burj Khalifa;NPMSG00
+Burj Dubai;NPMSG00
+Marc Zanni;NPMSSP0
+Vicent Monsonís;NPMSSP0
+Las Ventas;NPFPG00
+CEU Cardenal Herrera;NPCSO00
+Cardenal Herrera-CEU;NPCSO00
+Aristotelis Onassis;NPMSSP0
+Christina Onassis;NPFSSP0
+Bibiana Ballbè;NPFSSP0
+Arturo Valls;NPMSSP0
+Miranda Makaroff;NPFSSP0
+Samantha Hudson;NPFSSP0
+Alexandra Pino;NPFSSP0
+El Diari;NPMSO00
+El Diario;NPMSO00
+De la Rúa;NPCNSP0
+Canal Nou;NPMSO00
+Canal 9;NPMSO00
+Joan Maragall;NPMSSP0
+Cantigas de Santa Maria;NPFPO00
+Le Mont-Saint-Michel;NPMSG00
+filum terminale;NCMS000
+Fabià Estapé;NPMSSP0
+Pau Crestià;NPMSSP0
+Pau Cristià;NPMSSP0
+De Principatibus;NPMSO00
+De principatibus;NPMSO00
+Trois Glorieuses;NPFPO00
+Trente Glorieuses;NPFPO00
+Matemàtic Marzal;NPMSG00
+matemàtic Marzal;NPMSSP0
+Vielha e Mijaran;NPFSG00
+Vil·la Urània;NPFSG00
+peep show;NCMS000
+Antoni Bassas;NPMSSP0
+Maria Bohigas;NPFSSP0
+”la Caixa”;NPFSO00
+cap-i-pota;NCMS000
+cap-i-potes;NCMP000
+Leticia Asenjo;NPFSSP0
+Leticia Asenjo Huete;NPFSSP0
+Neus Torbisco;NPFSSP0
+conseller segon;NCMS000
+Heribert Mariezcurrena;NPMSSP0
+Marc Aloy;NPMSSP0
+Institut Karolinska;NPMSO00
+Gessamí Caramés;NPFSSP0
+José María Ángel;NPMSSP0
+nouvelle vague;NCFS000
+Nouvelle Vague;NCFS000
+Til Stegmann;NPMSSP0
+Ramon Xirau;NPMSSP0
+Joan-Carles Mèlich;NPMSSP0
 Hermann Bonnín;NPMSSP0
 Pilar Castillejo;NPFSSP0
 Judit Neddermann;NPFSSP0
@@ -539,7 +600,7 @@ Marcelino Olaechea;NPMSSP0
 dispersió de Thomson;NCFS000
 galàxia amfitriona;NCFS000
 Yasser Arafat;NPMSSP0
-Iàsser Arafat;NPMSSP0
+Iàssir Arafat;NPMSSP0 # Iàsser?
 Ferran Suay;NPMSSP0
 Jordi Sargatal;NPMSSP0
 Vall d'Hebron;NPCSG00

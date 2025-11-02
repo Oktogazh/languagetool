@@ -904,6 +904,7 @@ Warner Bros.
 Warner Bros. Pictures
 Warner Bros. Cartoons
 Warner Bros. Pictures Animation
+Warner Bros. Discovery
 Castle Rock Entertainment
 Homer Simpson
 Green Lantern
@@ -942,6 +943,7 @@ Star Wars
 Star Trek
 DOS
 Burj Khalifa
+Burj Dubai
 Ben-Hur
 Z-Wave
 Zigbee
@@ -2126,6 +2128,7 @@ Boris Becker
 Marlene Dietrich
 Bertolt Brecht
 Werner Heisenberg
+Werner Karl Heisenberg
 Carl Benz
 Claudia Schiffer
 Felix Mendelssohn
@@ -4907,8 +4910,6 @@ Chichén Itzá
 Bill Bowerman
 iCal
 Lenovo ThinkStation
-Richard von Weizsäcker
-von Weizsäcker
 Niclas Füllkrug
 Justin Verlander
 Youssoufa Moukoko
@@ -5041,6 +5042,7 @@ Morbid Angel
 Kumho Tire
 Kumho Tyre
 Johannes Vermeer
+Jan Vermeer
 Vermeer
 Ángel Di María
 Di María
@@ -5429,6 +5431,7 @@ Viktor Frankl
 Margaret Mead
 Hannover Messe
 Visegrád
+Višegrad
 ABN AMRO
 Forrester Wave
 IDC MarketScape
@@ -7629,6 +7632,7 @@ José López Rega
 Jorge Rafael Videla
 Rafael Videla
 Jorge Videla
+Videla
 Alberto Núñez Feijóo
 Núñez Feijóo
 Enrico Fermi
@@ -8060,6 +8064,7 @@ Katharina Graça
 Valérie Wagner
 Jarosław Kaczyński
 Hugo Chávez
+Chávez
 Ali Chamene’i
 Ali Chamene'i
 Jo Nesbø
@@ -8933,7 +8938,9 @@ Long Beach
 Juan Ramón Jiménez
 Enrique Menéndez Pelayo
 Marcelino Menéndez Pelayo
+Marcelino Menéndez y Pelayo
 Menéndez Pelayo
+Menéndez y Pelayo
 Thomas Becket
 Leopoldo Pomés
 New Yorker
@@ -10564,6 +10571,7 @@ Charles Nodier
 Charles Péguy
 Charles Richet
 Charles-Maurice de Talleyrand-Périgord
+Talleyrand-Périgord
 Talleyrand
 Charles-Nicolas Cochin
 Christine de Pizan
@@ -10813,6 +10821,9 @@ Alexander Kluge
 Andreas Gryphius
 Artur Yusupov
 Carl Friedrich von Weizsäcker
+Carl von Weizsäcker
+Richard von Weizsäcker
+von Weizsäcker
 Edith Stein
 Ernst Jünger
 Friedrich Gottlieb Klopstock
@@ -11281,7 +11292,6 @@ Juan Goytisolo
 Leopoldo Alas
 Manuel Fraga Iribarne
 Manuel Vázquez Montalbán
-Marcelino Menéndez y Pelayo
 Miguel Illescas
 Miguel de Unamuno
 Pedro Antonio de Alarcón
@@ -12285,6 +12295,7 @@ Philippe Starck
 Marie-Amélie Le Fur
 Victor Wembanyama
 Wembanyama
+Wemby
 Roxanne Varza
 Windows 10
 Windows 11
@@ -16721,6 +16732,7 @@ Homo habilis
 Homo heidelbergensis
 Homo naledi
 Homo neanderthalensis
+Homo sapiens neanderthalensis
 Homo rhodesiensis
 Homo rudolfensis
 Homo sapiens
@@ -19244,7 +19256,8 @@ Julio de Vido
 Victoria Villarruel
 Carlos Zannini
 Henrique Capriles
-Maria Corina
+Henrique Capriles Radonski
+Capriles Radonski
 Tareck El Aissami
 Henri Falcón
 Claudio Fermín
@@ -19507,6 +19520,8 @@ Albert Marquet
 Eugène Carrière
 François Gérard
 Hieronymus Bosch
+Hieronymus van Aken
+Jheronimus van Aken
 Marie Laurencin
 Joseph Beuys
 Georges Seurat
@@ -20161,6 +20176,8 @@ Andrew Z. Fire
 André Frédéric Cournand
 André Lwoff
 António Caetano Egas Moniz
+António Egas Moniz
+Egas Moniz
 Archibald Hill
 Ardem Patapoutian
 Arthur Kornberg
@@ -27243,6 +27260,7 @@ Jack Doohan
 Edmundo González Urrutia
 Edmundo González
 María Corina Machado
+María Corina
 Michael Dobbs
 Hollywood Symphony Orchestra
 William Christie
@@ -28635,6 +28653,14 @@ Louis Marchand
 Carl Stamitz
 François-Joseph Gossec
 Philippe Descola
+Vår Energi
+Mladá Boleslav
+Magen David Adom
+Tren de Aragua
+Joint Base Elmendorf-Richardson
+Alperen Şengün
+S.Coups
+Elmendorf-Richardson
 Eduardo Viveiros de Castro
 Viveiros de Castro
 Marilyn Strathern
@@ -28752,3 +28778,267 @@ Hapoel Netanel Holon
 Hapoel Holon
 Misty Copeland
 Élie Barnavi
+Marie Taglioni
+Alfred Aho
+Alfred Vaino Aho
+Jeffrey Ullman
+Jeffrey David Ullman
+Aho-Corasick
+Gottfried von der Goltz
+Léo Taxil
+Michel H. Devoret
+Michel Devoret
+John M. Martinis
+John Martinis
+Susumu Kitagawa
+Richard Robson
+Omar M. Yaghi
+Omar Yaghi
+Mary E. Brunkow
+Mary Brunkow
+Fred Ramsdell
+Shimon Sakaguchi
+László Krasznahorkai
+Krasznahorkai
+Diego Rivera
+Tilly Norwood
+Alfred Nobel
+Alfred Bernhard Nobel
+Gösta Mittag-Leffler
+Mittag-Leffler
+Joseph Kruskal
+Edmund Landau
+Gladys West
+Gladys Mae West
+Sofi Oksanen
+Romuald Hazoumè
+Black Panthers
+Robert Badinter
+Walter Mignolo
+Aníbal Quijano
+Aníbal Quijano Obregón
+Enrique Dussel
+Gérard Genette
+Indiana University Bloomington
+Diosdado Cabello
+Woodie Guthrie
+Woodrow Wilson Guthrie
+Robert Noyce
+Robert Norton Noyce
+Robert N. Noyce
+Bronx High School of Science
+Corazón Aquino
+Benigno Aquino
+Benigno Aquino III
+Sara Duterte
+Joseph Estrada
+Leila de Lima
+Gloria Macapagal-Arroyo
+Ferdinand Marcos
+Ferdinand Marcos Jr.
+Imelda Marcos
+Isko Moreno
+Grace Poe
+Fidel Ramos
+Leni Robredo
+Mar Roxas
+Jacques Cartier
+Jonathan Pryce
+Luigi's Mansion
+El Corte Inglés
+Gillo Pontecorvo
+Jean-Jacques Servan-Schreiber
+Jean-Jacques Schreiber
+Servan-Schreiber
+Boris Cyrulnik
+Gheorghe Gheorghiu-Dej
+Gheorghiu-Dej
+Joel Mokyr
+Phillippe Aghion
+Peter Howitt
+Scott Summer
+David Heinemeier Hansson
+Frederick Jelinek
+Bruno Bettelheim
+Andrej Karpathy
+David Horowitz
+Louis Antoine de Bougainville
+Domingo de Bonechea
+Elías Querejeta
+Penguin Cafe Orchestra
+Arnaud Desplechin
+Christian Petzold
+Whit Stillman
+Irma Vep
+ChatGPT Atlas
+Vielha e Mijaran
+Benjamin Bernheim
+Michael Polanyi
+Karl Polanyi
+Michael Pollan
+Doc Rivers
+Michael Cage
+John Amaechi
+Vernon Maxwell
+Clyde Drexler
+Robert Horry
+Sam Cassell
+Hunter Thompson
+Benjamin Zander
+Caitlin Moran
+Buteogallus anthracinus
+Sigfrido Ranucci
+Milena Gabanelli
+Maria Valtorta
+Christopher Lasch
+Charles Wright Mills
+Wright Mills
+Charles W. Mills
+Charles Mills
+Northwestern University
+Dwight Macdonald
+Maurizio Gucci
+Kenny McCormick
+Stan Marsh
+Kyle Broflovski
+Ryan Walters
+Hombres G
+Jake Barnes
+Johann Carl Fuhlrott
+Thomas Massie
+Lindsey Halligan
+George Selgin
+Le Mont-Saint-Michel
+mont Saint-Michel
+Eusko Alkartasuna
+Steve McCurry
+Sonia Gandhi
+Sun Myung Moon
+François Viète
+Schutzstaffel
+Bret Weinstein
+Robert James Shiller
+Taylor Alison Swift
+BFM TV
+RTL Group
+RTL
+Cutie Honey
+Ken Ishikawa
+Pierre Dardot
+Jelly d'Arányi
+Toyota Gazoo
+Toyota Gazoo Racing
+Toyota Gazoo Racing WRT
+Škoda Motorsport
+Skoda Motorsport
+YAML
+XAML
+Chauncey Billups
+Chauncey Ray Billups
+Mira Nair
+Mahmood Mamdani
+Karl J. Friston
+Karl Friston
+Doug Altman
+Douglas Altman
+Douglas Graham Altman
+Pascual Jordan
+Christian Møller
+Samuel Goudsmit
+Otto Frisch
+Otto Robert Frisch
+Arnold Sommerfeld
+Karl Wirtz
+Fritz Strassmann
+Hendrik Casimir
+Oskar Klein
+Victor Weisskopf
+Fritz Houtermans
+Edward Teller
+Hans Kramers
+George Uhlenbeck
+Rudolph Peierls
+Stefan Rozental
+Mark Cavendish
+Jacob Bronowski
+Joseph Rotblat
+Józef Rotblat
+Juan Carlos Onganía
+Mike Hodges
+Bizarrap
+Clarice Lispector
+Lorenzo Corsini
+Chicago Sun-Times
+Chicago Sun
+Charles Taze Russell
+Charles Russell
+Adolphe Charles Adam
+Charles Alkan
+Charles Blé Goudé
+Charles Castronovo
+Charles Chaynes
+Charles Dancla
+Charles Daniels
+Charles Robert Darwin
+Charles Desmazures
+Charles Dieupar
+Charles Dolle
+Charles François Gounod
+Charles d'Helfer
+Charles Lecocq
+Charles Mouton
+Charles Hubert Parry
+Charles Francis Richter
+Charles Ambroise Thomas
+Charles Tournemire
+Charles Workman
+Ulpiano Checa
+Theodore Sturgeon
+Neill Blomkamp
+Kool-Aid
+Hans van Mierlo
+Hans Gruijters
+Anouk van Brug
+Jeanine Hennis
+Rob Jetten
+Ronald Plasterk
+Kim van Sparrentak
+The X Factor
+Teletubbies
+Teletubby
+Tinky Winky
+Son Goku
+Brigitte Trogneux
+Jean-Michel Trogneux
+Jean-Claude Trogneux
+Tiphaine Auzière
+Candela Peña
+Paul St-Pierre Plamondon
+St-Pierre Plamondon
+Andrés Pajares
+Fernando Esteso
+Mariano Ozores
+Brigitte Mohnhaupt
+Helmut Pohl
+Richard Dedekind
+Nicolas Bourbaki
+N. Bourbaki
+Bourbaki
+André Weil
+Jean Delsarte
+Henri Cartan
+Jean Coulomb
+René de Possel
+Jean Dieudonné
+Charles Ehresmann
+Claude Chevalley
+Szolem Mandelbrojt
+Per Petterson
+Andrićgrad
+Milorad Dodik
+Carlos Westendorp
+Jurica Vučko
+Vučko
+Bakir Izetbegović
+Izetbegović
+Bosco Ntaganda
